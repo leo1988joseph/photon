@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B0A50BB7-C314-4F82-87CB-249E7F0D561F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC20B1DC-5D4E-4251-A92B-0335A6A5356A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotonTest/Home Page/GetURLManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC20B1DC-5D4E-4251-A92B-0335A6A5356A - c8c1ed6b1d146988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; () in PhotonTest.GetURLManager.getData(isSuccess: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "PhotonTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leojoseph/Desktop/PhotonTest/PhotonTest/Home%20Page/GetURLManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "EC20B1DC-5D4E-4251-A92B-0335A6A5356A - d53c4f90125a9f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotonTest.GetURLManager.getData() -&gt; ()"
+                  moduleName = "PhotonTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leojoseph/Desktop/PhotonTest/PhotonTest/Home%20Page/GetURLManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "EC20B1DC-5D4E-4251-A92B-0335A6A5356A - 7915ee4ff66ffce4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; () in PhotonTest.GetURLManager.getData() -&gt; ()"
+                  moduleName = "PhotonTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leojoseph/Desktop/PhotonTest/PhotonTest/Home%20Page/GetURLManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "EC20B1DC-5D4E-4251-A92B-0335A6A5356A - d53c4f90125a9eb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotonTest.GetURLManager.getData() -&gt; ()"
+                  moduleName = "PhotonTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leojoseph/Desktop/PhotonTest/PhotonTest/Home%20Page/GetURLManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
